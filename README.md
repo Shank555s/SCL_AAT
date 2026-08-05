@@ -315,7 +315,7 @@ If you use this work, please cite:
 ```bibtex
 @article{scl_aat_cuda_gwo_2026,
   title  = {Public Transport Route Optimization using CUDA Grey Wolf Optimization},
-  author = {Sandy-383},
+  author = {Shank555s},
   year   = {2026},
   note   = {Capstone Project -- GPU-accelerated multi-objective transit route optimization}
 }
